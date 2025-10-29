@@ -75,12 +75,12 @@ The final **Power BI Dashboard** brings all insights together, highlighting:
 
 ---
 
-## 🧠 Key Takeaways
-This project demonstrates the full Power BI workflow:  
-**Loading → Transforming → Modeling → Visualizing → Insight Generation**  
+## 🧠 Conclusion
+This project showcases the full data analysis lifecycle within Power BI — from importing raw data to building insightful, interactive dashboards. Through this work, I strengthened key skills in data preparation, data modeling, and visual storytelling using Power Query and DAX.
 
-Built entirely using **Power Query**, **DAX**, and **Power BI Desktop**.
+It demonstrates the ability to transform complex datasets into meaningful business insights, highlight trends in global job markets, and design clear, professional reports that support decision-making.
 
+Overall, this project reflects a strong foundation in data analytics, critical thinking, and dashboard design, applying practical Power BI techniques to deliver real, actionable insights.
 
 
 ---
