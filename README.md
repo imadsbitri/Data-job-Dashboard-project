@@ -76,7 +76,7 @@ The final **Power BI Dashboard** brings all insights together, highlighting:
 - Market demand trends  
 - Top employers and job titles
 
-![alt text](/images/6.png)
+![alt text](/images/1.png)
 
 
 ![alt text](/images/2.png)
