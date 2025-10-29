@@ -12,7 +12,9 @@ The project begins by **loading multiple data sources**, including:
 - **CSV files** containing job listings and salary information  
 - **Excel files** containing regional and company data  
 
-Power BI’s **Get Data** feature was used to connect and import all datasets into the workspace.
+Before loading, some **initial data manipulation** was performed in Excel — such as cleaning, formatting, and organizing columns — to ensure data consistency and structure.  
+
+After that, Power BI’s **Get Data** feature was used to connect and import all prepared datasets into the workspace for further transformation and analysis.
 
 ---
 
