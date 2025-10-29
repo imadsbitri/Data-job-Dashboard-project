@@ -1,7 +1,3 @@
-# 📊 Data Analytics Projects — Power BI | SQL | Excel
-
-
-![alt text](/images/1.png)
 
 # 📊 Data Jobs Around the World - Power BI Project
 
@@ -70,7 +66,12 @@ The final **Power BI Dashboard** brings all insights together, highlighting:
 - Global job distribution  
 - Salary comparisons by region and role  
 - Market demand trends  
-- Top employers and job titles  
+- Top employers and job titles
+
+![alt text](/images/1.png)
+
+
+![alt text](/images/2.png)
 
 ---
 
@@ -82,6 +83,5 @@ Built entirely using **Power Query**, **DAX**, and **Power BI Desktop**.
 
 
 
-![alt text](/images/2.png)
 ---
 
