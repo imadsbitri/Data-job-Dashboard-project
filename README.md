@@ -34,6 +34,8 @@ After transformation, relationships were built between tables to ensure accurate
 - Defined primary and foreign keys for data integrity  
 - Created a clean **data model schema** optimized for report performance  
 
+![alt text](/images/5.png)
+
 ---
 
 ## 📈 4. Measures and Calculations (DAX)
@@ -52,6 +54,10 @@ The visual layer of the project includes:
 - Slicers and filters for user-driven exploration  
 - Cards, KPIs, and trend visuals to summarize key metrics  
 - Customized visuals for a clean, professional layout  
+![alt text](/images/3.png)
+
+![alt text](/images/4.png)
+
 
 ---
 
