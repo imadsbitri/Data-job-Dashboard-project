@@ -3,72 +3,83 @@
 
 ![alt text](/images/1.png)
 
+# 📊 Data Jobs Around the World - Power BI Project
 
-This repository contains a collection of **data analytics projects** focused on real-world job markets and professional analytics workflows.  
-Each project demonstrates practical applications of **data modeling**, **DAX**, **visual design**, and **data-driven decision making** using modern business intelligence tools.
-
----
-
-## 🧩 Core Focus
-
-- **Business Intelligence Development**
-  - Building end-to-end analytical solutions using Power BI and Excel  
-  - Designing data models that support efficient reporting and ad-hoc analysis  
-
-- **Data Integration**
-  - Importing, cleaning, and transforming data from Excel, CSV, SQL, and web sources  
-  - Implementing ETL logic with Power Query and relational modeling principles  
-
-- **Analytical Reporting**
-  - Developing interactive dashboards for tracking KPIs, performance, and market insights  
-  - Applying advanced DAX calculations to support time intelligence, ranking, and segmentation  
+## 🧩 Overview
+This Power BI project explores **data jobs around the world**, providing insights into job distribution, salary ranges, and market trends.  
+The goal was to create an interactive dashboard to analyze and visualize job-related data efficiently.
 
 ---
 
-## 🛠️ Technical Skills
+## 📥 1. Data Loading
+The project begins by **loading multiple data sources**, including:  
+- **CSV files** containing job listings and salary information  
+- **Excel files** containing regional and company data  
 
-### **Power BI**
-- Data modeling with star and snowflake schemas  
-- Advanced DAX measures (CALCULATE, FILTER, SUMX, RANKX, SWITCH)  
-- Bookmarks, drill-through, and dynamic visuals  
-- Performance optimization and report usability best practices  
-- Custom visuals and parameter-based interactivity  
-
-
-
-### **Excel**
-- Power Query transformations and advanced formulas  
-- Pivot Tables, charts, and KPI dashboards  
-- Integration with Power BI datasets  
-
-### **Data Handling**
-- Data cleansing, transformation, and schema normalization  
-- Consistent naming conventions and metadata documentation  
-- Error-handling and validation for reliable refreshes  
-
-### **Visualization & Communication**
-- Design of intuitive and minimal dashboards aligned with data storytelling principles  
-- Use of color theory, layout balance, and typography for clarity  
-- Dynamic filtering and context preservation for stakeholder usability  
+Power BI’s **Get Data** feature was used to connect and import all datasets into the workspace.
 
 ---
 
-## 🧠 Project Themes
+## 🔧 2. Data Transformation (Power Query)
+Data cleaning and transformation were performed using **Power Query Editor**, applying several key steps and features:
+- Removing duplicates and handling missing values  
+- Changing data types for consistency  
+- Merging and appending multiple datasets  
+- Creating calculated columns  
+- Splitting and combining columns for better structure  
+- Filtering and sorting data  
+- Using conditional columns to categorize job roles and salary levels  
 
-### **Data Jobs Dashboard**
-- Global analysis of data-related roles (Data Analyst, Scientist, Engineer, BI Developer)  
-- KPIs: job count, salary distribution, demand by tool, region, and experience level  
-- Uses multi-table star schema with drill-through for individual job insights  
+---
 
-### **Salary and Market Trends**
-- Trend analysis across technologies (SQL, Python, Power BI, Excel)  
-- Time intelligence functions for year-over-year comparisons  
-- Dynamic measures with role-based segmentation  
+## 🔗 3. Data Modeling
+After transformation, relationships were built between tables to ensure accurate analysis and reporting:
+- Established **one-to-many** and **many-to-many** relationships between fact and dimension tables  
+- Defined primary and foreign keys for data integrity  
+- Created a clean **data model schema** optimized for report performance  
 
-### **ETL and Data Modeling Demonstrations**
-- Power Query pipelines simulating real corporate data processing  
-- Merge and append transformations across multiple monthly sources  
-- Data normalization into relational models for scalable analytics  
+---
+
+## 📈 4. Measures and Calculations (DAX)
+Using **Data Analysis Expressions (DAX)** to create dynamic and insightful measures such as:
+- Total Jobs  
+- Average Salary  
+- Job Growth by Country  
+- Percentage of Remote Jobs  
+- Dynamic Rankings and KPIs  
+
+---
+
+## 🎨 5. Visualization and Reporting
+The visual layer of the project includes:
+- Interactive charts and maps for geographical insights  
+- Slicers and filters for user-driven exploration  
+- Cards, KPIs, and trend visuals to summarize key metrics  
+- Customized visuals for a clean, professional layout  
+
+---
+
+## ⚙️ 6. Parameters and Interactivity
+- Implemented **parameters** for dynamic filtering and user control  
+- Enhanced interactivity with **tooltips** and **drill-through pages**  
+
+---
+
+## 📊 7. Dashboard and Insights
+The final **Power BI Dashboard** brings all insights together, highlighting:
+- Global job distribution  
+- Salary comparisons by region and role  
+- Market demand trends  
+- Top employers and job titles  
+
+---
+
+## 🧠 Key Takeaways
+This project demonstrates the full Power BI workflow:  
+**Loading → Transforming → Modeling → Visualizing → Insight Generation**  
+
+Built entirely using **Power Query**, **DAX**, and **Power BI Desktop**.
+
 
 
 ![alt text](/images/2.png)
